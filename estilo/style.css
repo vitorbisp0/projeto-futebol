@@ -91,16 +91,16 @@ section p {
 }
 
 #img1{
-  background-image: url('/imagens/jogos-modernos.jpg');
+  background-image: url('/imagens/imag1.jpg');
   background-position: right center;
 }
 
 #img2{
-  background-image: url('/imagens/olimpiadas-na-antiguidade.jpg');
+  background-image: url('/imagens/imag2.jpg');
 }
 
 #img3{
-  background-image: url('/imagens/olimpiadas.jpg');
+  background-image: url('/imagens/imag3.jpg');
 }
 
 footer{
